@@ -19,7 +19,7 @@
     </ul>
  <br>
  In the below I provided a tentative certification roadmap for 2k24.
- <img src="https://github.com/cross-d-engineer/cert-roadmap/blob/main/jl_cert-roadmap_2k24.jpg" alt="Q1 Roadmap">
+ <img src="https://github.com/cross-d-engineer/cert-roadmap/blob/main/jl_cert-roadmap_2024.jpg?raw=true" alt="Q1 Roadmap">
  </br>
  </p>
     
